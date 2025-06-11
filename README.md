@@ -13,29 +13,6 @@ A simple and efficient Todo application built using **core PHP** with **Object-O
 ## 🛠️ Technologies Used
 
 - PHP (Core)
+- OOPS Concepts
 - MySQLi
 - HTML/CSS
-- Bootstrap (optional if used)
-
-## 📂 Project Structure
-
-/todo/
-│
-├──assets
-│ └── css
-│   └── style.css
-│
-├── classes/
-│ └── Task.php # Task class with methods
-│
-├── config/
-│ └── Database.php # Database connection
-│
-├── partials/
-│ ├── footer.php
-│ ├── header.php
-│ ├── notifications.php
-|
-├── index.php # Main interface
-|
-└── README.md
